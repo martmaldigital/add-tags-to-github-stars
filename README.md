@@ -19,9 +19,13 @@ Not just in the bible but in many other references, stars are used as a metaphor
 
 As it turns out my stars on Github were destined (predestined some might say) to live up to the potential of their name as set by their celestial brethren and grow in numbers.
 
-Being able to just search through your starred repositories is a mighty tool but browsing them is a different story all together... 30 rows per page (?) and I got around 900ish stars now, you do the math. Granted, one may narrow the page count by searching but the problem is that classic search is not the ultimate solution to everything.
+Being able to just search through my starred repositories is a mighty tool but browsing them is a different story all together... 30 rows per page (?) and I got around 900ish stars now, you do the math. Granted, one may narrow the page count by searching but the problem is that classic search is not the ultimate solution to everything and even google realized that with gmail labels.
 
 When you think about it, tagging or categorizing repositories when you star them is also "search" but the main difference is who decides what the search query will be (you) and when (when you star the repo).
+
+If you read this far I thank you for your time and also if you agree with me, I also thank you, in advance for starring this repository.
+
+Github you're awesome.
 
 
 
