@@ -27,9 +27,11 @@ Tags will also pave the way for more creative ways to looks at your starbase AND
 
 In short, I think its going to be pretty useful and whatnot.
 
-If you read this far I thank you for your time and also if you agree with me, I also thank you, in advance for starring this repository.
+If you read this far I thank you for your time and also if you agree with me, I also thank you, in advance, for starring this repository.
 
 Github you're awesome.
+
+Have a nice day!
 
 
 
