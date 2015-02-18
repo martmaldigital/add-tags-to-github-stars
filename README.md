@@ -23,7 +23,7 @@ Being able to just search through my starred repositories is a mighty tool but b
 
 When you think about it, tagging or categorizing repositories when you star them is also "search" but the main difference is who decides what the search query will be (you) and when (when you star the repo).
 
-Tags will also pave the way for more creative ways to looks at your starbase not to mention its a massive crowdsourcing facility for grouping all the massive amount of code on github.
+Tags will also pave the way for more creative ways to looks at your starbase AND its quite possible it may turn into a massive crowdsourcing facility for grouping all the massive amount of code on github.
 
 In short, I think its going to be pretty useful and whatnot.
 
